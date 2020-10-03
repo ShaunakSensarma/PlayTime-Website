@@ -1,2 +1,2 @@
 # PlayTime-Website
-It is a fun website which is for some entertainment purpose for kids and people who love fun.
+It is a fun website  for some entertainment purpose for kids and people who love fun, developed using javascript.
