@@ -52,7 +52,7 @@ var questions=[
 	new Question("Which of the following things would calm Fluffy?",["A","B","C","D"],"C"),
 	new Question("How did Harry know which winged key to catch to open the next door?",["A","B","C","D"],"D"),
 	new Question("Which chess piece did Ron take the place of on McGonagall’s giant chess set?",["A","B","C","D"],"D"),
-	new Question("Why couldn’t Quirrell, unlike Harry, extract the Philosopher’s Stone from the Mirror of Erised?",["A","B","C","D"],"A")
+	new Question("Why couldn’t Quirrell, unlike Harry, extract the Philosopher’s Stone from the Mirror of Erised?",["An","B","C","D"],"A")
 ];
 var quiz=new Quiz(questions);
 populate();
