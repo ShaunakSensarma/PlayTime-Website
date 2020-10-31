@@ -1,3 +1,3 @@
 <?php
-	include_once("game.html");
+	include_once("index.html");
  ?>
