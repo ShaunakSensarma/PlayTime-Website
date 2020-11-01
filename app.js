@@ -47,12 +47,12 @@ var questions=[
 	new Question("Who first mentioned the name Nicolas Flamel to Harry, Ron and Hermione?",["Draco Malfoy","Professor Binns","Hagrid","Professor McGonagal"],"Hagrid"),
 	new Question("According to Quirrell, why did Snape dislike Harry so much?",["Snape hated Harrys attitude","Snape and Harry's father loathed each other","Snape and Harry's mother loathed each other","Snape hated all Gryffindors"],"Snape and Harry's father loathed each other"),
 	new Question("Where did Harry first overhear Snape talking about something with three heads?",["The Potions Classroom","The Forbidden Forest","Hedwig","The staff room"],"The staff room"),
-	new Question("How did Hermione manage to stop Quirrell jinxing Harry`s broom, even though she thought it was Snape?",["A","B","C","D"],"A"),
-	new Question("Why was the Philosophers Stone valuable to Voldemort?",["A","B","C","D"],"B"),
-	new Question("Which of the following things would calm Fluffy?",["A","B","C","D"],"C"),
-	new Question("How did Harry know which winged key to catch to open the next door?",["A","B","C","D"],"D"),
-	new Question("Which chess piece did Ron take the place of on McGonagall’s giant chess set?",["A","B","C","D"],"D"),
-	new Question("Why couldn’t Quirrell, unlike Harry, extract the Philosopher’s Stone from the Mirror of Erised?",["An","B","C","D"],"A")
+	new Question("Which Harry Potter word is now in the Oxford English Dictionary?",["Hogwarts","Voldemort","Muggle","Crucio"],"Muggle"),
+	new Question("Which of these Hogwarts professors teaches Transfiguration?",["Snape","Sprout","McGonagall","Hagrid"],"McGonagall"),
+	new Question("Who first shows Harry the diary of Tom Riddle?",["Moaning Myrtle","Fawkes","Headless Nick","Cedric Diggory"],"Moaning Myrtle"),
+	new Question("Who was NOT a member of the Order of the Phoenix?",["Sirius Black","Bellatrix Lestrange","Mad eye Moody","Fleur Delacour"],"Bellatrix Lestrange"),
+	new Question("Which chess piece did Ron take the place of on McGonagall’s giant chess set?",["Rook","Pawn","Knight","Bishop"],"Rook"),
+	new Question("The first Harry Potter theme park opened in 2010. Where is it?",["Birmingham","Yorkshire","Florida","Kyoto"],"Florida")
 ];
 var quiz=new Quiz(questions);
 populate();
